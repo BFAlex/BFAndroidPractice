@@ -26,6 +26,8 @@
             </intent-filter>
         </activity>
 
+        <activity android:name="com.bf.intent.SecondActivityComponent"></activity>
+
     </application>
 
 </manifest>
